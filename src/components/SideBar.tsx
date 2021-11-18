@@ -1,5 +1,5 @@
-import { GenreResponseProps } from '../App';
-import { Button } from './Button';
+import { GenreResponseProps } from '../App'
+import { Button } from './Button'
 
 interface SideBarProps {
   genres: GenreResponseProps[];
